@@ -1,2 +1,1 @@
-vertical_area,vertical_heigth,vertical_width,horizontal_area,horizontal_heigth,horizontal_width
-11287,183,167,3549,71,86
+vertical_area,vertical_heigth,vertical_width,horizontal_area,horizontal_heigth,horizontal_width,vertical_mask_path,horizontal_mask_path,vertical_rgb_path,horizontal_rgb_path,vertical_depth_path,horizontal_depth_path
