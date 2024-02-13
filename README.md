@@ -17,3 +17,6 @@ The following image shows the pipeline:
 
 <img title="a title" alt="Alt text" src="./gallery/pipeline.png">
 
+
+### figures
+`https://docs.google.com/presentation/d/173rA852JiZhZPG8QWpuMMOZkZgezP1hBd31omaqXm5A/edit#slide=id.p`
