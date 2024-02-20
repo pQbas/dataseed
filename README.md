@@ -15,8 +15,15 @@ The following image shows the pipeline:
 2. Apply `data_clearning.py` over a specific file of `/data/raw/[date]`.
 3. Apply `data_joining.py` over a specific folder `/data/raw/[date]` to join new data into the `dataseed`.
 
-<img title="a title" alt="Alt text" src="./gallery/pipeline.png">
+<img title="a title" alt="Alt text" src="gallery/pipeline_data_processing.png">
+
+
+### Use
+
 
 
 ### figures
 `https://docs.google.com/presentation/d/173rA852JiZhZPG8QWpuMMOZkZgezP1hBd31omaqXm5A/edit#slide=id.p`
+
+
+
