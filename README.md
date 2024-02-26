@@ -18,7 +18,10 @@ The following image shows the pipeline:
 <img title="a title" alt="Alt text" src="gallery/pipeline_data_processing.png">
 
 
-### Use
+### Data distribution
+
+<img title="a title" alt="Alt text" src="gallery/data_distribution.png">
+
 
 
 
