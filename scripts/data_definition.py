@@ -1,4 +1,5 @@
-dataset_structure = {
+def get_data_structure():
+    return {
     'length': [],
 
     'horizontal_area': [],
